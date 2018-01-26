@@ -3,7 +3,6 @@ import time
 import datetime
 import numpy as np
 import csv
-
 import pprint 
 import twstock
 
